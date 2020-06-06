@@ -82,7 +82,7 @@ class ViewController: UIViewController {
                 f=1
                }
                
-        else if(l7.text=="O" && l5.text=="O" && l9.text=="O")
+        else if(l7.text=="O" && l5.text=="O" && l3.text=="O")
                {
                    p1w()
                 f=1
@@ -128,7 +128,7 @@ class ViewController: UIViewController {
                 f=1
                }
                
-        else if(l7.text=="X" && l5.text=="X" && l9.text=="X")
+        else if(l7.text=="X" && l5.text=="X" && l3.text=="X")
                {
                    p2w()
                 f=1
